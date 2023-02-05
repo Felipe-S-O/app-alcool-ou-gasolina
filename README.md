@@ -17,7 +17,7 @@
 
 - [Aplicação](#aplicação)
 
-- [Tecnologias utilizadas](#ferramentas-utilizadas)
+- [Tecnologias utilizadas](#Tecnologias-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
