@@ -11,7 +11,7 @@ verifica qual combustivo é melhor de usar no momento
   
 
 <h1 align="center">
-  <p align="center">Controle de Vendas</p>
+  <p align="center">app-alcool-ou-gasolina</p>
   <a href="https://inottec.com.br/inottec-cdv/"><img src="https://user-images.githubusercontent.com/63815922/216737345-dd7dd7e7-2328-423f-aaea-e0ae329cb87e.png?text=inottec-CDV#vitrinedev" alt="inottec"></a>
 </h1>
 
@@ -39,7 +39,7 @@ verifica qual combustivo é melhor de usar no momento
 
 <p align="justify">
 
-  descrição
+ verifica qual combustivo é melhor de usar no momento 
 
 ![Descrição da imagem.](link imagem)
 </p>
@@ -58,7 +58,7 @@ verifica qual combustivo é melhor de usar no momento
 
 <div align="center">
 
-https://user-images.githubusercontent.com/63815922/186805668-6aae615d-3f24-48be-8a8d-d249456da74a.mp4
+![alcoo ou gasolina](https://user-images.githubusercontent.com/63815922/173049513-01084ac3-77c9-475a-8ffa-61eeaf4bc71f.gif)
 
 </div>
 
