@@ -1,12 +1,13 @@
 
 <h1 align="center">
   <p align="center">Álcool ou Gasolina</p>
-  <a href="https://inottec.com.br/inottec-cdv/"><img src="https://user-images.githubusercontent.com/63815922/216737345-dd7dd7e7-2328-423f-aaea-e0ae329cb87e.png?text=inottec-CDV#vitrinedev" alt="inottec"></a>
+  <a href="https://user-images.githubusercontent.com/63815922/216802097-c3553ac3-7253-43b2-8ced-f274614cc1f2.png#vitrinedev" alt="Álcool ou Gasolina"></a>
 </h1>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
 
 ### Índice
 
