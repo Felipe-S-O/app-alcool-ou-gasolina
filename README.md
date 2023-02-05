@@ -1,11 +1,8 @@
 
 <h1 align="center">
   <p align="center">Álcool ou Gasolina</p>
-  <a href="https://user-images.githubusercontent.com/63815922/216802097-c3553ac3-7253-43b2-8ced-f274614cc1f2.png#vitrinedev" alt="Álcool ou Gasolina"></a>
+  <a href="https://user-images.githubusercontent.com/63815922/216802156-0b9a7a31-b546-4864-aa2c-66e35c0259cd.png#vitrinedev" alt="Álcool ou Gasolina"></a>
 </h1>
-![alco-ou-gasolina](https://user-images.githubusercontent.com/63815922/216802138-81afb85f-240f-4656-9ca3-64821d0612a0.png)
-
-![alco-ou-gasolina](https://user-images.githubusercontent.com/63815922/216802156-0b9a7a31-b546-4864-aa2c-66e35c0259cd.png)
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
