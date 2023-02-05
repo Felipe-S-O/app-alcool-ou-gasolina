@@ -5,6 +5,8 @@
 </h1>
 ![alco-ou-gasolina](https://user-images.githubusercontent.com/63815922/216802138-81afb85f-240f-4656-9ca3-64821d0612a0.png)
 
+![alco-ou-gasolina](https://user-images.githubusercontent.com/63815922/216802156-0b9a7a31-b546-4864-aa2c-66e35c0259cd.png)
+
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
