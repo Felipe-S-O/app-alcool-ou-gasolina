@@ -1,14 +1,3 @@
-# app-alcool-ou-gasolina
-verifica qual combustivo é melhor de usar no momento 
-
-
-![alcoo ou gasolina](https://user-images.githubusercontent.com/63815922/173049513-01084ac3-77c9-475a-8ffa-61eeaf4bc71f.gif)
-
-
-#  Tecnologia utilizad 
-  *  <img align="center" alt="Felipe-Androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> Android Studi     
-  *  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
-  
 
 <h1 align="center">
   <p align="center">app-alcool-ou-gasolina</p>
@@ -64,10 +53,11 @@ verifica qual combustivo é melhor de usar no momento
 
 ###
 
-## Ferramentas utilizadas
+## Tecnologias utilizadas
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
+  *  <img align="center" alt="Felipe-Androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> Android Studi     
+  *  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
+  
 ###
 
 ## Acesso ao projeto
